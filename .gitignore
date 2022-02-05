@@ -6,3 +6,4 @@ venv
 *.db
 *.pyc
 *.swp
+CMakeLists.txt
