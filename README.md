@@ -1,14 +1,17 @@
-<h1 align="center">Welcome to algorithms and data structures 👋</h1>
+<h1 align="center">Welcome to algorithms and datastructures 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/algorithms and data structures" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/algorithms and data structures.svg">
+  <a href="https://www.npmjs.com/package/algorithms and datastructures" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/algorithms and datastructures.svg">
+  </a>
+  <a href="https://www.uia.no/studieplaner/topic/IKT203-G?year=2022" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://twitter.com/GabrielTorland" target="_blank">
     <img alt="Twitter: GabrielTorland" src="https://img.shields.io/twitter/follow/GabrielTorland.svg?style=social" />
   </a>
 </p>
 
-> apply the lesson based on a chosen programming language.
+> IKT203-G
 
 ## Install
 
